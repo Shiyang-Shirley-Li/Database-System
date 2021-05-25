@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XhdavakSh6s0ltWD76oZTXnbkeMMd+VZI5qKvcqUjmIGB91laXGFL4sxpdkooauTW3XMnkxcyjycLSC4e3/9nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lishi\\source\\repos\\ChessBrowser\\ChessTools\\ChessTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lishi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lishi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

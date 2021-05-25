@@ -1,0 +1,14 @@
+C:\Users\lishi\source\repos\ChessBrowser\ChessBrowser\bin\Debug\ChessBrowser.exe.config
+C:\Users\lishi\source\repos\ChessBrowser\ChessBrowser\bin\Debug\ChessBrowser.exe
+C:\Users\lishi\source\repos\ChessBrowser\ChessBrowser\bin\Debug\ChessBrowser.pdb
+C:\Users\lishi\source\repos\ChessBrowser\ChessBrowser\bin\Debug\ChessTools.dll
+C:\Users\lishi\source\repos\ChessBrowser\ChessBrowser\bin\Debug\MySql.Data.dll
+C:\Users\lishi\source\repos\ChessBrowser\ChessBrowser\bin\Debug\ChessTools.pdb
+C:\Users\lishi\source\repos\ChessBrowser\ChessBrowser\obj\Debug\ChessBrowser.csprojAssemblyReference.cache
+C:\Users\lishi\source\repos\ChessBrowser\ChessBrowser\obj\Debug\ChessBrowser.Form1.resources
+C:\Users\lishi\source\repos\ChessBrowser\ChessBrowser\obj\Debug\ChessBrowser.Properties.Resources.resources
+C:\Users\lishi\source\repos\ChessBrowser\ChessBrowser\obj\Debug\ChessBrowser.csproj.GenerateResource.cache
+C:\Users\lishi\source\repos\ChessBrowser\ChessBrowser\obj\Debug\ChessBrowser.csproj.CoreCompileInputs.cache
+C:\Users\lishi\source\repos\ChessBrowser\ChessBrowser\obj\Debug\ChessBrowser.csproj.CopyComplete
+C:\Users\lishi\source\repos\ChessBrowser\ChessBrowser\obj\Debug\ChessBrowser.exe
+C:\Users\lishi\source\repos\ChessBrowser\ChessBrowser\obj\Debug\ChessBrowser.pdb
